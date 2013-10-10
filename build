@@ -1,4 +1,5 @@
 #!/bin/bash
-echo Build script
+echo "*********building***********"
+
 g++ hello.cpp
 
